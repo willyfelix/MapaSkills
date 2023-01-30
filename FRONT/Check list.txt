@@ -1,0 +1,15 @@
+Check list
+
+1. Desenhar layout;
+    1.1 Select para subDivisões;
+    1.2 Select para cargos;
+    1.3 Select para tecnologias;
+    1.4 Listagem de skills;
+
+2. Chamada de API;
+
+3. Desenvolver o back;
+    3.1 Listagem de subDivisões;
+    3.2 Listagem de cargos;
+    3.2 Listagem de tecnologias;
+    3.2 Listagem de skills;
