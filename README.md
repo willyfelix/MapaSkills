@@ -1,6 +1,6 @@
 # MapaSkills
 
-- Projeto com o intuito de mapear skills, dependendo do cargo e tecnologia utilizada.
+Projeto com o intuito de mapear skills, dependendo do cargo e/ou tecnologia utilizada.
 
 ## Tecnologias Utilizadas
 
