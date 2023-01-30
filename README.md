@@ -4,7 +4,10 @@
 
 ## Tecnologias Utilizadas
 
-- React
+- React JS
+- JavaScript
+- HTML
+- CSS
 - PHP
 - MySQL
 
