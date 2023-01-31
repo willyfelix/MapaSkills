@@ -1,7 +1,7 @@
 import React, { useState, useEffect} from 'react'
 import Select from 'react-select';
-import './MeuComponente.css'
-
+import './MeuComponente.css';
+//import Skills from './Skills';
 
 const MeuComponente = () => {
 
@@ -81,6 +81,7 @@ const MeuComponente = () => {
             <Select className="custom-select"  options={tecnologias} onChange={(e) => {
                 carregarSkills(e.value)
             }}/>
+
 
         </div>
     );
